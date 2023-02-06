@@ -9,3 +9,8 @@
 *"Xampp is een flikker."*<br>
 ~Luuk
 ****
+
+**06/02/2023**<br>
+*"Scheer je konthaar."*<br>
+~Luuk
+****
